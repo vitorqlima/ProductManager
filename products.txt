@@ -1,0 +1,6 @@
+{"title":"Arroz","description":"Arroz Arborio","price":5.99,"thumbnail":"imagem","code":1,"stock":10}
+{"title":"Arroz","description":"Arroz Parboilizado","price":3.99,"thumbnail":"imagem","code":2,"stock":15}
+{"title":"Arroz","description":"Arroz Arborio","price":5.99,"thumbnail":"imagem","code":1,"stock":10}
+{"title":"Arroz","description":"Arroz Parboilizado","price":3.99,"thumbnail":"imagem","code":2,"stock":15}
+{"title":"Arroz","description":"Arroz Arborio","price":5.99,"thumbnail":"imagem","code":1,"stock":10}
+{"title":"Arroz","description":"Arroz Parboilizado","price":3.99,"thumbnail":"imagem","code":2,"stock":15}
